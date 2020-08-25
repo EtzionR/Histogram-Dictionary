@@ -36,8 +36,8 @@ hd.histogram_dct(lst, bin, name)
 
 When the variables displayed are:
 
-**lst:** pandas dataframe object.
+**lst:** iterable object composed by numbers
 
-**bin:** simple list that contain strings. each one of them is column name inside **"data"** that you want to display its smooth density.
+**bin:** bin size
 
 **name:** string which represents the filename of the plot you want to save
