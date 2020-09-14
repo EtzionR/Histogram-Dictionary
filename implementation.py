@@ -2,7 +2,7 @@ import histogram_dct as hd
 import pandas as pd
 
 # load data
-data = pd.read_excel('distributions.xlsx')
+data = pd.read_excel('Example\distributions.xlsx')
 
 # uniform distribution:
 hd.histogram_dct(data['unf'], bin=12.5, name='uniform distribution')
