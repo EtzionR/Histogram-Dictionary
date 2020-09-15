@@ -7,6 +7,8 @@ If a **"name"** string variable is also inserted, then the code will also genera
 
 ![picture](https://github.com/EtzionData/Histogram-Dictionary/blob/master/Output/normal%20distribution%20histogram%20bin%3D4.png)
 
+output examples available [**here**](https://github.com/EtzionData/Histogram-Dictionary/tree/master/Output).
+
 ## libraries
 The code uses the following libraries in Python:
 
