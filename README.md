@@ -3,7 +3,7 @@ Produces a histogram dictionary, in which each bin specifies the frequency of it
 
 ## introduction
 The code receives an iterable object consisting of numbers, and produces for it a computer dictionary the frequency of occurrences for each bin. 
-If a **name** string variable is also inserted, then the code will also generate a plot (instructions below).
+If a **"name"** string variable is also inserted, then the code will also generate a plot (instructions below).
 
 ![picture](https://github.com/EtzionData/Histogram-Dictionary/blob/master/Output/normal%20distribution%20histogram%20bin%3D4.png)
 
