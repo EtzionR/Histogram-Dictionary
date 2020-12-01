@@ -1,7 +1,7 @@
 # Histogram-Dictionary
 Produces a histogram dictionary, in which each bin specifies the frequency of its occurrences.
 
-## introduction
+## Introduction
 The code receives an iterable object consisting of numbers, and produces for it a computer dictionary the frequency of occurrences for each bin. 
 If a **"name"** string variable is also inserted, then the code will also generate a plot (instructions below).
 
@@ -9,14 +9,14 @@ If a **"name"** string variable is also inserted, then the code will also genera
 
 output examples available [**here**](https://github.com/EtzionData/Histogram-Dictionary/tree/master/Output).
 
-## libraries
+## Libraries
 The code uses the following libraries in Python:
 
 **matplotlib**
 
 **pandas** (only in the implementation.py code)
 
-## application
+## Application
 An application of the code is attached to this page under the name: 
 
 **"implementation.py"** 
