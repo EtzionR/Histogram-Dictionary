@@ -1,7 +1,7 @@
 # Histogram-Dictionary
 Produces a histogram dictionary, in which each bin specifies the frequency of its occurrences.
 
-## Introduction
+## Overview
 The code receives an iterable object consisting of numbers, and produces for it a computer dictionary the frequency of occurrences for each bin. 
 If a **"name"** string variable is also inserted, then the code will also generate a plot (instructions below).
 
