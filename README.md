@@ -5,9 +5,9 @@ Produces a histogram dictionary, in which each bin specifies the frequency of it
 The code receives an iterable object consisting of numbers, and produces for it a computer dictionary the frequency of occurrences for each bin. 
 If a **"name"** string variable is also inserted, then the code will also generate a plot (instructions below).
 
-![picture](https://github.com/EtzionData/Histogram-Dictionary/blob/master/Output/normal%20distribution%20histogram%20bin%3D4.png)
+![picture](https://github.com/EtzionData/Histogram-Dictionary/blob/master/outputs/normal%20distribution%20histogram%20bin%3D4.png)
 
-output examples available [**here**](https://github.com/EtzionData/Histogram-Dictionary/tree/master/Output).
+output examples available [**here**](https://github.com/EtzionData/Histogram-Dictionary/tree/master/outputs).
 
 ## Libraries
 The code uses the following libraries in Python:
