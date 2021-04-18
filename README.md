@@ -45,3 +45,6 @@ When the variables displayed are:
 **bin:** bin size
 
 **name:** string which represents the filename of the plot you want to save
+
+## License
+MIT © [Etzion Harari](https://github.com/EtzionR)
