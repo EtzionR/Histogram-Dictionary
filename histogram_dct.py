@@ -1,3 +1,7 @@
+# Create by Etzion Harari
+# https://github.com/EtzionR
+
+# Load libraries:
 import matplotlib.pyplot as plt
 
 def create_plot(dct, bin_, name, wid=0.1):
@@ -28,3 +32,5 @@ def histogram_dct(lst, bin, name=None):
     dct = histogram(lst, bin)
     if name: create_plot(dct, bin, name)
     return dct
+
+# MIT © Etzion Harari
