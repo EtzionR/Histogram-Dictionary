@@ -33,4 +33,5 @@ def histogram_dct(lst, bin, name=None):
     if name: create_plot(dct, bin, name)
     return dct
 
+# License
 # MIT © Etzion Harari
